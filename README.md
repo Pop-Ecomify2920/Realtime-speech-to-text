@@ -1,4 +1,4 @@
-# Converso: GPT-4 Chatbot Android App (OpenAI API)
+# Converso: GPT-4 Chatbot Android App (OpenAI/Qwen/Deepseek API)
 ### Chat in real-time using your voice with an AI chatbot.
 
 <img src="screenshots/s1.jpeg" width="40%" height="40%" /> <img src="screenshots/s2.jpeg" width="40%" height="40%" />
